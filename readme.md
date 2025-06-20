@@ -17,4 +17,8 @@ node server.js
 - os
 - path
 - events
- 
+
+
+ Screenshots:
+
+ ![image](https://github.com/user-attachments/assets/6e9a65f9-999d-4d1c-82e0-cdd964878dce)
